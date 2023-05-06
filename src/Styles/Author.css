@@ -1,0 +1,31 @@
+.master {
+    margin-top: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.author {
+    text-align: center;
+    margin-bottom: 2rem;
+    border: 1px solid rgb(85, 85, 85);
+    height: 200px;
+    width: 350px;
+}
+
+.API {
+    text-align: center;
+    margin-bottom: 2rem;
+    border: 1px solid rgb(85, 85, 85);
+    height: 200px;
+    width: 350px;
+}
+
+.API a {
+    text-decoration: none rgb(255, 255, 255);
+}
+
+h4 {
+    color: rgb(255, 255, 255);
+}
